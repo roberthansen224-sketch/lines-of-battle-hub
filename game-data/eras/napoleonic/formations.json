@@ -6,7 +6,7 @@
     "disablesRearMelee": true,
     "disablesEnfiladeFire": true,
     "disablesRearFire": true,
-    "shootingAngle": 75,
+    "shootingAngle": 85,
     "shootingMaxTargets": 2
   },
   {
