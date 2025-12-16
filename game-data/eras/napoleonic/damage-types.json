@@ -180,8 +180,8 @@
       "absorptionModifier": 2,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
@@ -234,8 +234,8 @@
       "absorptionModifier": 2,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
@@ -279,8 +279,8 @@
       "absorptionModifier": 2,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
@@ -333,8 +333,8 @@
       "absorptionModifier": 2,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
@@ -387,8 +387,8 @@
       "absorptionModifier": 2.0,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
@@ -441,8 +441,8 @@
       "absorptionModifier": 2.0,
       "offset": 0.8,
       "elevationModifiers": {
-        "heightModifierPerLevel": -0.15,
-        "damageModifierPerLevel": -0.05,
+        "heightModifierPerLevel": -0.2,
+        "damageModifierPerLevel": -0.1,
         "maxElevationDiff": 4
       }
     },
